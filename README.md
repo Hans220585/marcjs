@@ -187,11 +187,11 @@ record
 
 Return a string representation of the record, in a specific format given as method parameter:
 
-  * **text** -- A human readable version of the MARC record.
-  * **iso2709** -- Legacy ISO2709 format.
-  * **marcxml** -- Standard MARCXML.
-  * **json** -- JSON stringified version of the native record object.
-  * **mij** -- MARC-in-JSON. Alternative serialization format, as described here: http://dilettantes.code4lib.org/blog/2010/09/a-proposal-to-serialize-marc-in-json/ 
+  * *text* -- A human readable version of the MARC record.
+  * *iso2709* -- Legacy ISO2709 format.
+  * *marcxml* -- Standard MARCXML.
+  * *json* -- JSON stringified version of the native record object.
+  * *mij* -- MARC-in-JSON. Alternative serialization format, as described here: http://dilettantes.code4lib.org/blog/2010/09/a-proposal-to-serialize-marc-in-json/ 
 
 Example:
 
